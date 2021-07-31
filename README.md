@@ -1,5 +1,5 @@
 # Python
-Utilizando comando while True:
+#Utilizando comando while True:
 
 from random import randint
 v = 0
