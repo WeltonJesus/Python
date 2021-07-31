@@ -1,4 +1,5 @@
 # Python
+#Criei um programa que jogou par ou impar com o computador
 #Utilizando comando while True:
 
 from random import randint
