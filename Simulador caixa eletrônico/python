@@ -1,4 +1,3 @@
-#Utilizei cédulas de 50,20,10,1
 print('=-='*20)
 print('{:-^20}'.format('Caixa Eletrônico'))
 print('=-='*20)
@@ -22,4 +21,3 @@ while True:
        totcéd = 0
        if total == 0:
            break
-
